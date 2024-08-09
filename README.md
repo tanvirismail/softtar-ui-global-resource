@@ -1,0 +1,1 @@
+# softtar-ui-global-resource
